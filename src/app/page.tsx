@@ -1,4 +1,4 @@
-import { ProjectList } from "./components/project-list";
+
 
 export default function Home() {
   return (
@@ -12,7 +12,7 @@ export default function Home() {
               <li>Gjøre sideprosjekt</li>
             </ul>
             <br />
-            <a href="./prosjekter">Liste over prosjekter jeg har hatt</a>
+            <a href="./prosjekter" color = "blue">Liste over prosjekter jeg har hatt</a>
         </div>
   );
 }
