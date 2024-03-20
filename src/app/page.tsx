@@ -1,3 +1,5 @@
+import { ProjectList } from "./components/project-list";
+
 export default function Home() {
   return (
         <div className="text-center">
@@ -9,6 +11,7 @@ export default function Home() {
               <li>Lære dette</li>
               <li>Gjøre sideprosjekt</li>
             </ul>
+            <ProjectList/ >
         </div>
   );
 }
