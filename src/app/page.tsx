@@ -11,6 +11,7 @@ export default function Home() {
               <li>Lære dette</li>
               <li>Gjøre sideprosjekt</li>
             </ul>
+            <br />
             <ProjectList/ >
         </div>
   );
