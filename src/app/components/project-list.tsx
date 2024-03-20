@@ -4,7 +4,7 @@ export function ProjectList() {
     return (    
         <div className="text-center"> 
             <h1 className="text-2xl">Prosjektliste</h1>
-            <ul style={{ textAlign: 'center', listStylePosition: 'inside' }}>
+            <ul className="pl-4 list-disc space-y-4" style={{ textAlign: 'center', listStylePosition: 'inside' }}>
                 <li>
                     <h2>Tetris</h2>
                     <p>Semesteroppgave 1 fra INF101</p>
