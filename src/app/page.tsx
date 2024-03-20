@@ -12,7 +12,7 @@ export default function Home() {
               <li>Gjøre sideprosjekt</li>
             </ul>
             <br />
-            <ProjectList/ >
+            <a href="./prosjekter">Liste over prosjekter jeg har hatt</a>
         </div>
   );
 }
