@@ -12,7 +12,7 @@ export default function Home() {
               <li>Gjøre sideprosjekt</li>
             </ul>
             <br />
-            <a href="./prosjekter" color = "blue">Liste over prosjekter jeg har hatt</a>
+            <a href="./prosjekter" font-color = "blue">Liste over prosjekter jeg har hatt</a>
         </div>
   );
 }
